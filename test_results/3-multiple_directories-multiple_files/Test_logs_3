@@ -1,0 +1,165 @@
+Attaching to watch-directory
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | File Created: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | File uploaded to API: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/conf/50-server.cnf
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.DS_Store
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/.dockerignore
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/tools/nginx.sh
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.dockerignore
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/conf/default
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/tools/init_db.sh
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/Dockerfile
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/.DS_Store
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/wordpress/tools/wordpress_start.sh
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/.dockerignore
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/nginx/.DS_Store
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis queued: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+watch-directory  | Analysis complete succesfully: /watch_data/3-multiple_subdirectories_multiple_files/srcs/mariadb/Dockerfile
+

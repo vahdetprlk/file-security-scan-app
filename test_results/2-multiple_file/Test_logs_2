@@ -1,0 +1,27 @@
+Attaching to watch-directory
+watch-directory  | File Created: /watch_data/2-multiple_files/json-file.json
+watch-directory  | File Created: /watch_data/2-multiple_files/dll-file.dll
+watch-directory  | File Created: /watch_data/2-multiple_files/pdf-file.pdf
+watch-directory  | File Created: /watch_data/2-multiple_files/jpeg-file.jpeg
+watch-directory  | File uploaded to API: /watch_data/2-multiple_files/jpeg-file.jpeg
+watch-directory  | File uploaded to API: /watch_data/2-multiple_files/json-file.json
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/jpeg-file.jpeg
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/json-file.json
+watch-directory  | File uploaded to API: /watch_data/2-multiple_files/pdf-file.pdf
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/pdf-file.pdf
+watch-directory  | File uploaded to API: /watch_data/2-multiple_files/dll-file.dll
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/dll-file.dll
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/jpeg-file.jpeg
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/json-file.json
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/pdf-file.pdf
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/dll-file.dll
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/jpeg-file.jpeg
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/json-file.json
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/pdf-file.pdf
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/dll-file.dll
+watch-directory  | Analysis complete succesfully: /watch_data/2-multiple_files/jpeg-file.jpeg
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/json-file.json
+watch-directory  | Analysis complete succesfully: /watch_data/2-multiple_files/pdf-file.pdf
+watch-directory  | Analysis complete succesfully: /watch_data/2-multiple_files/dll-file.dll
+watch-directory  | Analysis queued: /watch_data/2-multiple_files/json-file.json
+watch-directory  | Analysis complete succesfully: /watch_data/2-multiple_files/json-file.json
